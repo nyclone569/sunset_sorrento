@@ -1,5 +1,9 @@
 # sunset_sorrento
-Các bước để hiển thị trang web:
+Project này tập trung luyện kĩ năng xây dựng html, css và javascript dựa trên [Bản thiết kế]{https://www.figma.com/design/h0zYmda1rsUBjJGPQQs1nP/Untitled?node-id=0-1&t=LHjwKw6iSDGM8qm0-1}
+
+Link web trực tuyến: [Sunset sorrento]{https://nyclone569.github.io/sunset_sorrento/}
+
+Các bước để cài đặt và chạy ở local:
    1. Cài đặt Visual Studio Code
    Link: https://code.visualstudio.com/download
 
